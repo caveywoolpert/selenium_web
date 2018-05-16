@@ -1,0 +1,5 @@
+package utils;
+
+public enum WebDriverPathConstants {
+    CHROME, INTERNET_EXPLORER, EDGE, FIREFOX, MARIONETTE, GECKO, SAFARI, HTMLUNIT, PHANTOMJS, OPERA, JBROWSER;
+}
